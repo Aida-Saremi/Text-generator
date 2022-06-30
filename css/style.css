@@ -1,0 +1,8 @@
+body{
+    height: 100vh;
+    background: linear-gradient(
+        135deg,
+        #7fece8,
+        #e4c4d0
+    );
+}
